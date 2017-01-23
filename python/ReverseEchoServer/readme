@@ -1,0 +1,18 @@
+ReverseEchoServer and UnitTest
+---
+IDE Used: JetBrain-PyCharm
+Resources:
+  learn by example,
+    https://docs.python.org/2/library/socket.html?highlight=socket#module-socket
+    https://docs.python.org/2/library/unittest.html?highlight=unittest#module-unittest
+    https://docs.python.org/2/library/subprocess.html
+    https://pymotw.com/2/SocketServer/
+    https://pymotw.com/2/socket/tcp.html
+    http://code.activestate.com/recipes/408859-socketrecv-three-ways-to-turn-it-into-recvall/
+    http://pythontesting.net/framework/unittest/unittest-introduction/
+    http://www.devdungeon.com/content/unit-testing-tcp-server-client-python
+
+next steps refactor and utilize mock.
+    https://www.toptal.com/python/an-introduction-to-mocking-in-python
+
+Assumption: set the send and recieve to 1024.
